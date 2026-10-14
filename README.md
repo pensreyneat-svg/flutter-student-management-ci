@@ -6,7 +6,7 @@
 - [Instructor: publish and restore a classroom regression](docs/INSTRUCTOR_GUIDE.md)
 
 Lesson 6 sample: an Android Flutter app that **creates, lists, views, updates and deletes students** through the [Laravel Student Management API](https://github.com/maohieng/laravel-student-management-ci).
-
+sssss
 Features: paginated list, add/edit form, server-backed detail dialog, delete confirmation, input validation, readable Laravel 422 errors, connection errors and retry. Use fictional data: the classroom backend has no authentication. Do not deploy this demo with real student data.
 
 ## Browser-based CI practice
