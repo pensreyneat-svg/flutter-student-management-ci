@@ -1,5 +1,3 @@
-classroom-delivery.yml
-
 name: Classroom Delivery
 on: workflow_dispatch
 permissions:
